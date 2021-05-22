@@ -1,5 +1,5 @@
 # python_web_scrapping
 
-All required is in this repo to run the web scarp script ! 
+All required is in this repo to run the web scrap script ! 
 
 Have Fun :)
