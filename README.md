@@ -1,2 +1,5 @@
 # python_web_scrapping
-Using Python to Get Info from a Website :) Legally!
+
+All required is in this repo to run the web scarp script ! 
+
+Have Fun :)
